@@ -1,24 +1,56 @@
-# README
+# Description
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> **hello-rails-back-end** is a simple scholastic project to learn using React with rails in one project.
 
-Things you may want to cover:
+## Built with
 
-* Ruby version
+- Rails
+- Postgresql
 
-* System dependencies
+## Getting Started
 
-* Configuration
+To get a local copy up and running follow these simple example steps.
 
-* Database creation
+### Prerequisites
 
-* Database initialization
+- Ruby
+- Postgresql
 
-* How to run the test suite
+### Setup
 
-* Services (job queues, cache servers, search engines, etc.)
+- Clone the Repository
+- Go to the project directory
+- Run `bundle install`
+- Run `rails db:create`
+- Run `rails db:migrate`
+- Run `rails db:seed`
 
-* Deployment instructions
+### Usage
 
-* ...
+- Run `rails s`
+
+## Authors
+
+👤 **Vignesh**
+
+- GitHub: [@vikipretium](https://github.com/vikipretium)
+- Twitter: [@vikipretium](https://twitter.com/vikipretium)
+- LinkedIn: [@vikipretium](https://linkedin.com/in/vikipretium)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
